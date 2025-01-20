@@ -1,5 +1,4 @@
-//! Data Structures and Algorithms, Advanced Review!
-//! Array Data Structure, and the algorithm to find the user. 
+//! Data Structures Arrays (Advanced Review)
 const studentsDatabase = [" Nuraly", "Aigerim", "Aidana", "Joomart"];
 
 const findStudent = (allStudents, studentName) => {
